@@ -1,5 +1,5 @@
 import React from "react";
 
 export const Collection = () => {
-  return <div></div>;
+  return <div>Hello</div>;
 };
